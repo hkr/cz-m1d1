@@ -1,0 +1,29 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model NJM2903D
+#/1517110/952192/2.50/8/3/Integrated Circuit
+DEF NJM2903D IC 0 30 Y Y 1 F N
+F0 "IC" 1450 300 50 H V L CNN
+F1 "NJM2903D" 1450 200 50 H V L CNN
+F2 "DIP762W56P254L880H425Q8N" 1450 100 50 H I L CNN
+F3 "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-22/DSA-438387.pdf" 1450 0 50 H I L CNN
+F4 "Comparator,2ch,General,DIP8" 1450 -100 50 H I L CNN "Description"
+F5 "4.25" 1450 -200 50 H I L CNN "Height"
+F6 "513-NJM2903D" 1450 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/NJR/NJM2903D?qs=3YhdU5s%252B0lZSUsNyNge3WQ%3D%3D" 1450 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "New Japan Radio" 1450 -500 50 H I L CNN "Manufacturer_Name"
+F9 "NJM2903D" 1450 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X A_OUTPUT 1 0 0 200 R 50 50 0 0 P
+X A_-_INPUT 2 0 -100 200 R 50 50 0 0 P
+X A_+INPUT 3 0 -200 200 R 50 50 0 0 P
+X GND 4 0 -300 200 R 50 50 0 0 P
+X V+ 8 1600 0 200 L 50 50 0 0 P
+X B_OUTPUT 7 1600 -100 200 L 50 50 0 0 P
+X B_-_INPUT 6 1600 -200 200 L 50 50 0 0 P
+X B_+INPUT 5 1600 -300 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 1400 100 1400 -400 200 -400 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

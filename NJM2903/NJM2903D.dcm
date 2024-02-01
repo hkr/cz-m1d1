@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NJM2903D
+D Comparator,2ch,General,DIP8
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-22/DSA-438387.pdf
+$ENDCMP
+#
+#End Doc Library

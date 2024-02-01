@@ -1,0 +1,9 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "x68k")(type "Legacy")(uri "${KIPRJMOD}/x68k.lib")(options "")(descr ""))
+  (lib (name "CZ-6BM1")(type "KiCad")(uri "${KIPRJMOD}/CZ-6BM1.kicad_sym")(options "")(descr ""))
+  (lib (name "SN74ALS00")(type "KiCad")(uri "${KIPRJMOD}/SN74ALS00/2024-01-22_01-37-17.kicad_sym")(options "")(descr ""))
+  (lib (name "NJM2903D")(type "KiCad")(uri "${KIPRJMOD}/NJM2903/NJM2903D.kicad_sym")(options "")(descr ""))
+  (lib (name "RCJ-011")(type "KiCad")(uri "${KIPRJMOD}/RCJ_011/RCJ-011.kicad_sym")(options "")(descr ""))
+  (lib (name "PJRAN1X1U01X")(type "KiCad")(uri "${KIPRJMOD}/PJRAN1X1U01X/PJRAN1X1U01X.kicad_sym")(options "")(descr ""))
+)

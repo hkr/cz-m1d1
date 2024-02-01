@@ -1,0 +1,11 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "x68k")(type "KiCad")(uri "${KIPRJMOD}/x68k.pretty")(options "")(descr ""))
+  (lib (name "NJM2903")(type "KiCad")(uri "${KIPRJMOD}/NJM2903")(options "")(descr ""))
+  (lib (name "RCJ_011")(type "KiCad")(uri "${KIPRJMOD}/RCJ_011")(options "")(descr ""))
+  (lib (name "QYX1H103JTP3TA")(type "KiCad")(uri "${KIPRJMOD}/QYX1H103JTP3TA/footprints.pretty")(options "")(descr ""))
+  (lib (name "ECQ-E2104JB")(type "KiCad")(uri "${KIPRJMOD}/ECQ-E2104JB")(options "")(descr ""))
+  (lib (name "PJRAN1X1U01X")(type "KiCad")(uri "${KIPRJMOD}/PJRAN1X1U01X")(options "")(descr ""))
+  (lib (name "CustomMountingHole")(type "KiCad")(uri "${KIPRJMOD}/CustomMountingHole.pretty")(options "")(descr ""))
+  (lib (name "cz-m1d1")(type "KiCad")(uri "${KIPRJMOD}/cz-m1d1.pretty")(options "")(descr ""))
+)
