@@ -2534,7 +2534,7 @@
     (property "ki_keywords" "TTL DFF")
     (path "/bee29456-3f48-4a51-ac42-45e0a74d69cc")
     (attr through_hole)
-    (fp_text reference "IC11" (at 9.7 0.5 90) (layer "F.SilkS")
+    (fp_text reference "IC11" (at 9.7 7 90) (layer "F.SilkS")
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp d07b4114-d458-4813-8368-ee10becedf65)
     )
