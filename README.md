@@ -19,7 +19,7 @@ Some footprints and symbols are downloaded from Digikey and/or Mouser.
 ## Changelog
 
 - mk1 initial prototype
-- mk2 change board design to match the look of the origina CZ-6BM1
+- mk2 change board design to match the look of the original CZ-6BM1
 - minor silkscreen fix after that, but I have not built a card with it
 
 ## Pics
